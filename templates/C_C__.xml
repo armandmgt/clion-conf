@@ -1,0 +1,12 @@
+<templateSet group="C/C++">
+  <template name="head" value="/*&#10;** EPITECH PROJECT, $YEAR$&#10;** $PROJECT_NAME$&#10;** File description:&#10;** $NAME$&#10;*/&#10;&#10;$end$" description="Add header to source file" toReformat="false" toShortenFQNames="true">
+    <variable name="YEAR" expression="date(&quot;yyyy&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="PROJECT_NAME" expression="${PROJECT_NAME}" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION_C" value="true" />
+      <option name="OC_DECLARATION_CPP" value="true" />
+    </context>
+  </template>
+</templateSet>
