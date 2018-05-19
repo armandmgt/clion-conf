@@ -1,10 +1,10 @@
 <scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-05-15T16:34:07</property>
-    <property name="ide">CLion</property>
-    <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-05-15T21:32:42</property>
+    <property name="created">2018-05-19T15:35:07</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.1.3.0.0</property>
+    <property name="modified">2018-05-19T15:36:46</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
