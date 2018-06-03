@@ -3,7 +3,7 @@
     <property name="created">2018-05-15T16:34:07</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-06-02T16:03:34</property>
+    <property name="modified">2018-06-03T11:38:09</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -20,6 +20,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="c679dd" />
     <option name="FILESTATUS_SUPPRESSED" value="abb2bf" />
     <option name="FILESTATUS_SWITCHED" value="61aeef" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
