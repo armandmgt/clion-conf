@@ -4,7 +4,7 @@
     <extensionMap>
       <mapping ext="b3d" type="PLAIN_TEXT" />
       <mapping pattern="209poll_2017" type="Python" />
-      <mapping pattern="207demography" type="Bash" />
+      <mapping pattern="207demography" type="Python" />
     </extensionMap>
   </component>
 </application>
