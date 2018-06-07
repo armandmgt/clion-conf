@@ -1,3 +1,6 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false" />
+  <component name="NotificationConfiguration">
+    <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Code style settings migration" displayType="NONE" />
+  </component>
 </application>
