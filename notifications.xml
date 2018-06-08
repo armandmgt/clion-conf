@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Code style settings migration" displayType="NONE" />
   </component>
