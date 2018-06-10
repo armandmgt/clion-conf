@@ -1,9 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
+    <option name="version" value="2.4.0.1-2018.1" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="tabsHeight" value="50" />
+    <option name="userId" value="-3554d71c:163ea951532:-7fff" />
   </component>
 </application>
