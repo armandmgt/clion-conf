@@ -1,7 +1,6 @@
 <code_scheme name="Epitech C 2017" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="80" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="8" />
     <option name="INDENT_C_STRUCT_MEMBERS" value="8" />
@@ -76,6 +75,13 @@
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="LABEL_INDENT_SIZE" value="8" />
       <option name="LABEL_INDENT_ABSOLUTE" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="8" />
+      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
