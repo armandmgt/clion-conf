@@ -12,6 +12,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Tek2/PSU" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects" />
   </component>
 </application>
