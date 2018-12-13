@@ -6,6 +6,12 @@
     <option name="INDENT_INSIDE_CODE_BLOCK" value="8" />
     <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="8" />
   </Objective-C>
+  <Objective-C-extensions>
+    <extensions>
+      <pair source="cpp" header="hpp" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+    </extensions>
+  </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
