@@ -5,6 +5,7 @@
       <mapping ext="in" type="CMakeLists.txt" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="zappy_ai" type="PLAIN_TEXT" />
+      <mapping pattern="Doxyfile-mcss" type="PLAIN_TEXT" />
       <mapping ext="ds" type="PLAIN_TEXT" />
       <mapping ext="b3d" type="PLAIN_TEXT" />
       <mapping pattern="209poll_2017" type="Python" />
